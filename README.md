@@ -1,0 +1,1 @@
+# p-gina-web-utilizando-a-responsividade-em-aplica-o-com-HTML-parte-1
